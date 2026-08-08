@@ -4,6 +4,7 @@ RPS ARC-AGI 3 Solutions Technical Report
 
 [PDF](https://iamjasonfeng.github.io/RPS-ARC-AGI-3/rps_arc_agi_3_solutions_technical_report.pdf)
 
+
 Abstract
 
 This paper documents three of my ARC-AGI-3 solutions: Gorilla-1.1, Sandwich, and Tiger. The solutions are based on
