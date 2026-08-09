@@ -22,4 +22,5 @@ where Kaggle automatically displays each notebook's best competition score.
 Update: August 10, 2026
 
 I identified a serious flaw in Gorilla-1.1 Stage 2C: all 166 DPO pairs used a shared prompt that described the
-interaction as an "offline rejected-candidate call," including the chosen branches.
+interaction as an "offline rejected-candidate call," including the chosen branches. Sandwich and Tiger were not
+affected.
